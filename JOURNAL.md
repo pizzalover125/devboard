@@ -67,3 +67,10 @@
 <img width="579" height="649" alt="image" src="https://github.com/user-attachments/assets/c6e86904-b2ee-4a67-96a1-85e256359983" />
 
 - chat are we cooked
+- ok im making the bottom and the top the same distance from one another such that RP2040 is perfectly in the middle
+- nvm ill just make it wider
+
+<img width="466" height="594" alt="image" src="https://github.com/user-attachments/assets/d938723d-1b12-4356-a696-1bb82efc832f" />
+
+- uhhhhh it looks ugly
+- not sure how to improve so ill start routing
