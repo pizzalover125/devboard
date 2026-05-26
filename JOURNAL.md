@@ -39,3 +39,31 @@
 - however, i cant seem to find the crystal footprint/symbol
 - thats so weird
 - ok will find out tmrw
+
+### 5/26: schematic p.2 + PCB p.1 (1hr)
+- going to add 2 STEMMA-QT connectors
+
+<img width="591" height="377" alt="image" src="https://github.com/user-attachments/assets/e2d8dd63-1f47-4a33-8d93-791412196c8c" />
+
+- added! there super easy to add
+
+<img width="635" height="299" alt="image" src="https://github.com/user-attachments/assets/ecb0ae51-9baf-4c06-8a1e-66643527d1f6" />
+
+- added crystal
+- basically KiCAD updated the library in KiCAD 10 to merge pins 2 and 4 cause they both go to ground
+- thats kind of confusing but ig it works
+- asked in Slack for schematic review
+- time for footprint assignments
+
+<img width="728" height="562" alt="image" src="https://github.com/user-attachments/assets/b30483b7-5034-4878-bca4-8787b6761265" />
+
+- done!
+- time for PCB design
+
+<img width="670" height="412" alt="image" src="https://github.com/user-attachments/assets/ba761c7e-f3f8-4240-97e3-92573d384003" />
+
+- general placement
+
+<img width="579" height="649" alt="image" src="https://github.com/user-attachments/assets/c6e86904-b2ee-4a67-96a1-85e256359983" />
+
+- chat are we cooked
