@@ -40,7 +40,7 @@
 - thats so weird
 - ok will find out tmrw
 
-### 5/26: schematic p.2 + PCB p.1 (1hr)
+### 5/26: schematic p.2 + PCB p.1 (3hr)
 - going to add 2 STEMMA-QT connectors
 
 <img width="591" height="377" alt="image" src="https://github.com/user-attachments/assets/e2d8dd63-1f47-4a33-8d93-791412196c8c" />
@@ -74,3 +74,23 @@
 
 - uhhhhh it looks ugly
 - not sure how to improve so ill start routing
+
+<img width="304" height="381" alt="image" src="https://github.com/user-attachments/assets/b8ae0c7d-6b6e-4d72-b5c3-5e3981bcfe71" />
+
+- little bit more
+- watching https://www.youtube.com/watch?v=ABJs4LKFSbA&t=181s
+
+<img width="618" height="734" alt="image" src="https://github.com/user-attachments/assets/97951462-136b-40c9-8d62-83fe30a51dcf" />
+
+- ok i think im going to restart and start with the USB
+- also ill move around some stuff
+
+<img width="290" height="531" alt="image" src="https://github.com/user-attachments/assets/9a19d24e-4134-4470-bcdd-dcbabfad6594" />
+
+- finally worked!
+- ok time for literally everything else
+
+<img width="539" height="632" alt="image" src="https://github.com/user-attachments/assets/eaf6326e-3c71-4cd3-aee1-bf71900fe9b3" />
+
+- finally! done!
+- going to ask for review :)
